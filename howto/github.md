@@ -2,7 +2,7 @@
 
 # 準備
 
-<a href="./howto_github_000.png"><img src="./howto_github_000.png" width="500"></a>
+<a href="https://user-images.githubusercontent.com/2966953/108835409-c619ca80-7612-11eb-83f6-90587e3d0b99.png"><img width="500" alt="github_000" src="https://user-images.githubusercontent.com/2966953/108835409-c619ca80-7612-11eb-83f6-90587e3d0b99.png"></a>
 
 
 ## アカウントの作成
