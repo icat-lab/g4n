@@ -1,7 +1,7 @@
 # Issues を使う
 
 ## Issues とは
-Issues についての公式なドキュメントは <a href="https://docs.github.com/ja/github/managing-your-work-on-github/about-issues">こちら</a> にあります。本来ソフトウェア開発における、ユーザーフィードバックやソフトウェアのバグ報告などを書き留めておくためのツールですが、簡単に言えば、To Do アイテムの管理ツールのようなものです。To Do としてやるべき事を Issue として登録し、そこに進捗状況を書き込んでいけるのです。そのようにすることで、行うべき事 Issue がどのくらいあり、現在どのくらい進捗しているかを管理します。
+Issues についての公式なドキュメントは <a href="https://docs.github.com/ja/github/managing-your-work-on-github/about-issues">こちら</a> にあります。ソフトウェア開発における、ユーザーフィードバックやソフトウェアのバグ報告などを書き留めておくためのツールですが、To Do アイテムの管理ツールとご理解頂いて差し支えありません。To Do としてやるべき事を Issue として登録し、そこに進捗状況を書き込んでいけるのです。そのようにすることで、行うべき事 Issue がどのくらいあり、現在どのくらい進捗しているかを管理します。
 
 <a href="https://user-images.githubusercontent.com/2966953/111875875-5d3e2c00-89df-11eb-9028-d0a2f8f17d1e.png"><img src="https://user-images.githubusercontent.com/2966953/111875875-5d3e2c00-89df-11eb-9028-d0a2f8f17d1e.png" width="500" alt="Issues"></a>
 
