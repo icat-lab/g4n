@@ -43,3 +43,5 @@ Issue に進捗があった場合など、コメントを追記することが�
 
 <a href="https://user-images.githubusercontent.com/2966953/111880328-35a29000-89ee-11eb-857d-91908f050d71.png"><img src="https://user-images.githubusercontent.com/2966953/111880328-35a29000-89ee-11eb-857d-91908f050d71.png" width="500" alt="Issues"></a>
 
+[Git Hub の使い方ページに戻る](github.md)
+

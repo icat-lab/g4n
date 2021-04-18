@@ -38,3 +38,5 @@ Issue を To do 状態から In progress 状態に変更する場合、Issue を
 [Projects] をクリックして、Project 一覧表示の状態から、クローズしたい Project の右隅にある [・・・] をクリックし、[Close] を選択します。
 
 <a href="https://user-images.githubusercontent.com/2966953/115149213-0a1ece00-a09e-11eb-816d-744ad0f8789e.png"><img src="https://user-images.githubusercontent.com/2966953/115149213-0a1ece00-a09e-11eb-816d-744ad0f8789e.png" width="500" alt="Close Project"></a>
+
+[Git Hub の使い方ページに戻る](github.md)

@@ -39,5 +39,4 @@ Verify email address をクリックして、登録を完了します。
 <a href="https://user-images.githubusercontent.com/2966953/109283413-1b97e680-7862-11eb-8342-8f78e0ff6327.png"><img width="500" alt="GitHub login" src="https://user-images.githubusercontent.com/2966953/109283413-1b97e680-7862-11eb-8342-8f78e0ff6327.png"></a>
 
 
-
-[Git Hub の使い方](github.md)
+[Git Hub の使い方ページに戻る](github.md)
