@@ -33,8 +33,6 @@ GitHub では、多くの場面で Markdown 形式の記入が可能です。Mar
 - リストのサンプル
 - リストのサンプル
 > 引用のサンプル
-
-上記のような表示を行いたい場合は、以下のように記述します。
 ```
 
 詳細については、 <a href="https://docs.github.com/ja/github/writing-on-github/basic-writing-and-formatting-syntax" target="_blank">こちら</a> の公式文書をご参照ください。
