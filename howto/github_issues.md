@@ -18,10 +18,6 @@ Issues についての公式なドキュメントは <a href="https://docs.githu
 
 ### Markdown 形式について
 
-GitHub では、多くの場面で Markdown 形式の記入が可能です。Markdown を用いることで、文書のタイトルや段落の表示体裁を自動的に整えることが可能です。この文書自体も Markdown で書かれています。例として、この文書は以下のような Markdown で書かれています。
-
-### Markdown 形式について
-
 GitHub では、多くの場面で Markdown 形式の記入が可能です。Markdown を用いることで、文書のタイトルや段落の表示体裁を自動的に整えることが可能です。この文書自体も Markdown で書かれています。例として、以下のような表示を考えてみましょう。
 
 #### Markdown のサンプル
@@ -38,7 +34,7 @@ GitHub では、多くの場面で Markdown 形式の記入が可能です。Mar
 - リストのサンプル
 > 引用のサンプル
 
-上記のような表示を行いたい場合は、コメントに以下のように記述します。
+上記のような表示を行いたい場合は、以下のように記述します。
 ```
 
 詳細については、 <a href="https://docs.github.com/ja/github/writing-on-github/basic-writing-and-formatting-syntax" target="_blank">こちら</a> の公式文書をご参照ください。
