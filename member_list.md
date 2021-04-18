@@ -6,7 +6,7 @@ Specially Appointed Associate Professor at Graduate School of Media and Governan
 - [CV (日本語)](https://github.com/icat-lab/CurriculumVitae)
 
 ## Yoshihiro, YAMAGUCHI
-Senior Customer Engineer, Microsoft Japan  
+Windows Application Consultant, Senior Customer Engineer, Microsoft   
 IPA RISS (Registered Information Security Specialist)  
 Certified ScrumMaster  
 Application Development/IoT/DevOps/GitHub/OOP/etc..
