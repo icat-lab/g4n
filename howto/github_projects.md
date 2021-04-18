@@ -19,6 +19,22 @@ Create a new project のページが表示されたら、Project board name に�
 
 ## Project に Issue を載せる
 
+Project を参照した状態から、右上の [Add cards] をクリックします。
+
+<a href="https://user-images.githubusercontent.com/2966953/115148447-94fdc980-a09a-11eb-9c58-87a81e92c8c0.png"><img src="https://user-images.githubusercontent.com/2966953/115148447-94fdc980-a09a-11eb-9c58-87a81e92c8c0.png" width="500" alt="Add card"></a>
+
+すると、選択可能な Issue が表示されますので、Project に載せたい Issue を To do にドラッグ&amp;ドロップします。
+
+<a href="https://user-images.githubusercontent.com/2966953/115148660-95e32b00-a09b-11eb-9873-a0b476028110.png"><img src="https://user-images.githubusercontent.com/2966953/115148660-95e32b00-a09b-11eb-9873-a0b476028110.png" width="500" alt="Drag &amp; Drop Issue"></a>
+
 ## Issue の状態を変える
 
+Issue を To do 状態から In progress 状態に変更する場合、Issue を該当カラムにドラッグ&amp;ドロップしてください。なお、Issue 側をクローズしても、Project 側の状態は変わりません。ご注意ください。
+
+<a href="https://user-images.githubusercontent.com/2966953/115148977-de4f1880-a09c-11eb-8c1e-8d4ce2bf474f.png"><img src="https://user-images.githubusercontent.com/2966953/115148977-de4f1880-a09c-11eb-8c1e-8d4ce2bf474f.png" width="500" alt="Change Issue status"></a>
+
 ## Project を Close する
+
+[Projects] をクリックして、Project 一覧表示の状態から、クローズしたい Project の右隅にある [・・・] をクリックし、[Close] を選択します。
+
+<a href="https://user-images.githubusercontent.com/2966953/115149213-0a1ece00-a09e-11eb-816d-744ad0f8789e.png"><img src="https://user-images.githubusercontent.com/2966953/115149213-0a1ece00-a09e-11eb-816d-744ad0f8789e.png" width="500" alt="Close Project"></a>
