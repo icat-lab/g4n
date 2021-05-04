@@ -21,3 +21,18 @@ Repository とは、プロジェクトが管理するファイル・フォルダ
 無事に該当ファイルができていれば成功です。
 
 <a href="https://user-images.githubusercontent.com/2966953/116807477-4fe39800-ab6e-11eb-988f-6db862dae89b.png"><img src="https://user-images.githubusercontent.com/2966953/116807477-4fe39800-ab6e-11eb-988f-6db862dae89b.png" width="500" alt="Success"></a>
+
+## Repository 上のファイルを編集する
+
+Repository 上、編集したいファイルをクリックしてファイルを表示させます。その状態から、右上の鉛筆マークをクリック。
+
+<a href="https://user-images.githubusercontent.com/2966953/116960568-c18d2480-acdb-11eb-91da-cc85c859bc6b.png"><img src="https://user-images.githubusercontent.com/2966953/116960568-c18d2480-acdb-11eb-91da-cc85c859bc6b.png" width="500" alt="view"></a>
+
+
+① にファイル名、② に内容の編集を行い、③ に編集内容の理由（例えば 「項目の追加」）、④ は [Commit directly to the main branch.] のままとして、[Commint new file] をクリックします。
+
+<a href="https://user-images.githubusercontent.com/2966953/116960776-627bdf80-acdc-11eb-83d1-c2c1271a3ea9.png"><img src="https://user-images.githubusercontent.com/2966953/116960776-627bdf80-acdc-11eb-83d1-c2c1271a3ea9.png" width="500" alt="edit"></a>
+
+
+
+
