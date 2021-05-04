@@ -1,4 +1,4 @@
-# Rpository を使う
+# Repository を使う
 
 ## Repository とは
 
