@@ -88,11 +88,11 @@ URL はあるサイトのページを示すこともできますし、あるペ�
 HTML タグを用いると、Markdown 形式のタグを用いるよりも動作に自由度があります。リンク先を新しいページとして表示したい場合は以下のようにします。
 
 ```
-深見先生の GitHub ページは<a href="https://github.com/icat-lab/g4n" target="_blank">こちら</a>。
+深見先生のコメントは[こちら](https://icatlab.slack.com/archives/C01RT07SE4S/p1619665540006300)。
 ```
 
 以下は上記と同様のリンクとなりますが、別ページとして表示されることが分かるかと思います。
 
 - - -
-深見先生の GitHub ページは<a href="https://github.com/icat-lab/g4n" target="_blank">こちら</a>。
+深見先生のコメントは[こちら](https://icatlab.slack.com/archives/C01RT07SE4S/p1619665540006300){:target="_blank"}。
 - - -
