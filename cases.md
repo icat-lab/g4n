@@ -4,3 +4,7 @@
 - [日本国政府デジタル市場競争本部 TrustedWeb推進協議会](https://github.com/TrustedWebPromotionCouncil)
   - [Trusted Web推進協議会｜デジタル市場競争本部](https://www.kantei.go.jp/jp/singi/digitalmarket/trusted_web/index.html)
 - [LawHub \| 国会に提出された議案をGitHubのような差分形式で可視化します。](https://lwhb.github.io/)
+
+
+## Markdown usages
+- [行政文書はMarkdownで管理できるか｜Hal Seki｜note](https://note.com/hal_sk/n/n916a422caafd)
