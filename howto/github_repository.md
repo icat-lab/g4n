@@ -4,7 +4,7 @@
 
 Repository とは、プロジェクトが管理するファイル・フォルダ群を保存している場所一般を指しますが、ここでは GitHub が履歴を管理するファイルやフォルダのことしてご案内します。GitHub では、GitHub 上の Repository にあるファイルやフォルダを Git の持つ更新履歴やブランチといった 機能を利用して管理が可能です。
 
-## Repsitory にファイルを追加する
+## Repository にファイルを追加する
 
 先生から指定される GitHub リポジトリのページ 右上から、[Add file] → [Create new file] を選択します。
 
@@ -33,6 +33,20 @@ Repository 上、編集したいファイルをクリックしてファイルを
 
 <a href="https://user-images.githubusercontent.com/2966953/116960776-627bdf80-acdc-11eb-83d1-c2c1271a3ea9.png"><img src="https://user-images.githubusercontent.com/2966953/116960776-627bdf80-acdc-11eb-83d1-c2c1271a3ea9.png" width="500" alt="edit"></a>
 
+## 履歴を確認する
 
+Repository 上、History をクリックすることで、これまでの編集履歴を確認することができます。
+
+<a href="https://user-images.githubusercontent.com/2966953/136989106-7f163eff-7cb0-4027-9902-aeaa73ba47a9.png"><img src="https://user-images.githubusercontent.com/2966953/136989106-7f163eff-7cb0-4027-9902-aeaa73ba47a9.png" width="500" alt="hisotory button"></a>
+
+履歴の各項目をクリックすると、変更差分の詳細を確認できます。
+
+<a href="https://user-images.githubusercontent.com/2966953/136990002-109cc83f-8b06-404f-83c2-cf50928472fb.png"><img src="https://user-images.githubusercontent.com/2966953/136990002-109cc83f-8b06-404f-83c2-cf50928472fb.png" width="500" alt="history"></a>
+
+削除された箇所が赤く、追加された箇所が緑色で表現されます。
+
+<a href="https://user-images.githubusercontent.com/2966953/136990400-fa6d5189-12c7-4d2d-840e-1bd36a3c3d57.png"><img src="https://user-images.githubusercontent.com/2966953/136990400-fa6d5189-12c7-4d2d-840e-1bd36a3c3d57.png" width="500" alt="diff"></a>
+
+[Git Hub の使い方ページに戻る](github.md)
 
 
