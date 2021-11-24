@@ -10,6 +10,8 @@ branch で書き込みその２
 
 test-line-2
 
+<img src="./japanese-style_00001.jpg" width="100" />
+
 <img src="./kintone-blogtest-2.png" />
 
 zzz
