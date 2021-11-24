@@ -10,7 +10,7 @@ branch で書き込みその２
 
 test-line-2
 
-
+<img src="./kintone-blogtest-2.png" />
 
 zzz
 
